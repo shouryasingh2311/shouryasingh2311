@@ -1,3 +1,5 @@
+<h1 align="center">Hey, Shourya here 👋</h1>
+
 <p align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%" style="max-width: 860px; border-radius: 10px;" />
 </p>
@@ -83,6 +85,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/bottom_banner.jpg" alt="Dino" width="100%" style="max-width: 750px; border-radius: 8px;" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:0d1117&height=100&section=footer" width="100%" />
