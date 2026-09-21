@@ -56,8 +56,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shouryasingh2311&theme=dark" alt="GitHub Streak" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shouryasingh2311&show_icons=true&theme=dark&hide_border=true" width="400" />
+  <img src="https://streak-stats.demolab.com?user=shouryasingh2311&theme=dark&background=010C0D&ring=00F2A1&fire=00FF00&currStreakNum=00F2A1&sideNums=00FF00&currStreakLabel=00F2A1&border=00F2A1&hide_border=true" alt="GitHub Streak" width="450" />
 </div>
 
 <br>
