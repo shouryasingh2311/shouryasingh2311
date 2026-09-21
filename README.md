@@ -1,7 +1,5 @@
-<h1 align="center">Hey, Shourya here</h1>
-
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" style="max-width: 900px; border-radius: 10px;" />
+  <img src="./assets/banner.png" alt="Banner" width="100%" style="max-width: 860px; border-radius: 10px;" />
 </p>
 
 ## Tools and Technologies
@@ -55,7 +53,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shouryasingh2311&theme=dark" alt="GitHub Streak" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shouryasingh2311&show_icons=true&theme=dark&hide_border=true" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shouryasingh2311&show_icons=true&theme=dark&hide_border=true" width="400" />
 </div>
 
 <br>
@@ -86,5 +84,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/bottom_banner.jpg" alt="Footer Banner" width="100%" style="max-width: 900px; border-radius: 10px;" />
+  <img src="./assets/bottom_banner.jpg" alt="Dino" width="100%" style="max-width: 750px; border-radius: 8px;" />
 </p>
