@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shourya Singh</h1>
+<h1 align="center">Hey, Shourya here</h1>
 
 <p align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%" style="max-width: 900px; border-radius: 10px;" />
