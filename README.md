@@ -53,7 +53,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shouryasingh2311&theme=dark" alt="GitHub Streak" width="400" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shouryasingh2311&show_icons=true&theme=dark&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shouryasingh2311&show_icons=true&theme=dark&hide_border=true" width="400" />
 </div>
 
 <br>
