@@ -1,19 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%" />
-
 <div align="center">
-<pre>
-
-  hey, i'm
-
-  ███████ ██   ██  ██████  ██    ██ ██████  ██    ██  █████  
-  ██      ██   ██ ██    ██ ██    ██ ██   ██  ██  ██  ██   ██ 
-  ███████ ███████ ██    ██ ██    ██ ██████    ████   ███████ 
-       ██ ██   ██ ██    ██ ██    ██ ██   ██    ██    ██   ██ 
-  ███████ ██   ██  ██████   ██████  ██   ██    ██    ██   ██ 
-
-  here.
-
-</pre>
+  <img src="./assets/greeting.svg" alt="Hey, Shourya here!" width="380" />
 </div>
 
 <p align="center">
