@@ -1,4 +1,20 @@
-<h1 align="center">Hey, Shourya here 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%" />
+
+<div align="center">
+<pre>
+
+  hey, i'm
+
+  ███████ ██   ██  ██████  ██    ██ ██████  ██    ██  █████  
+  ██      ██   ██ ██    ██ ██    ██ ██   ██  ██  ██  ██   ██ 
+  ███████ ███████ ██    ██ ██    ██ ██████    ████   ███████ 
+       ██ ██   ██ ██    ██ ██    ██ ██   ██    ██    ██   ██ 
+  ███████ ██   ██  ██████   ██████  ██   ██    ██    ██   ██ 
+
+  here.
+
+</pre>
+</div>
 
 <p align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%" style="max-width: 860px; border-radius: 10px;" />
@@ -7,7 +23,7 @@
 ## Tools and Technologies
 
 <p align="left">
-  <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759761771/skills_xx7j2l.gif" alt="Skills & Technologies" width="50" />
+  <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759761771/skills_xx7j2l.gif" alt="Skills &amp; Technologies" width="50" />
 </p>
 <br>
 
@@ -64,7 +80,6 @@
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib" width="100%" style="max-width: 820px;" />
 </div>
 
-<br/>
 <br/>
 
 <p align="center">
