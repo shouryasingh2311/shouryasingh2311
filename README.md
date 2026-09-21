@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/greeting.svg" alt="Hey, Shourya here!" width="380" />
+  <img src="./assets/greeting.svg" alt="Hey, Shourya here!" width="420" />
 </div>
 
 <p align="center">
@@ -63,7 +63,7 @@
 <br>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib" width="100%" style="max-width: 820px;" />
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Profile Contrib" width="100%" style="max-width: 820px;" />
 </div>
 
 <br/>
@@ -74,7 +74,7 @@
   </a>
   &nbsp;
   <a href="https://shourya-portfolio-xi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0B0F19" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00F2A1?style=for-the-badge&logo=googlechrome&logoColor=010C0D" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:shouryasingh2311@gmail.com" target="_blank">
@@ -86,4 +86,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010C0D,50:00F2A1,100:010C0D&height=100&section=footer" width="100%" />
